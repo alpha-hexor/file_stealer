@@ -8,7 +8,7 @@ pip install tqdm
 ## Usage
 **1. Cahnge the ip in the windows_stealer.py file**
 
-**2. Build exe using the .bat file(pyinstaller must be installed**
+**2. Build exe using the .bat file (pyinstaller must be installed)**
 
 **3. Start the server**
 
